@@ -1,3 +1,2 @@
 # PyML
-Curso de Python para Machine Learning
-[Plataforma](https://www.udemy.com/)
+[Curso de Python para Machine Learning](https://www.udemy.com/)
