@@ -7,14 +7,19 @@ def main():
 
     # TODO: A função any vai devolver true caso qualquer valor da lista
     # seja verdade
+    print(any(lista))
 
     # TODO: A função all vai devolver true apenas se todos valores da
     # lista forem verdade
+    print(all(lista))
 
     # TODO: As funções min e max devolvem os valores mínimo e máximo
     # respectivamente
+    print(min(lista))
+    print(max(lista))
 
     # TODO: Use sum() para somar todos os valores da lista
+    print(sum(lista))
 
 
 if __name__ == "__main__":
